@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/movie-film-strip-blue-background_1017-33458.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698364800&semt=ais");
+    background-size: 1500px 1000px;
+
+}
+button {
+    height: 85px;
+    width: 250px;
+    background-color: aqua;
+    margin-top: 500px;
+    margin-left: 200px;
+    border-radius: 8px;
+}

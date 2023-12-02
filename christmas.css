@@ -1,0 +1,10 @@
+div{
+    background-image: url("https://i.ytimg.com/vi/1oWgCeDnZRM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0YYVOvsgC5lPvKE1U3ZdlFDtXZQ");
+    background-size: 1200px 700px;
+    margin: 80px;
+    background-repeat:no-repeat;
+    width:1200px;
+    height:1000px;
+    color:white;
+    text-align:center;
+}
